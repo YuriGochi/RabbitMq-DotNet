@@ -1,0 +1,17 @@
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Services.deps.json
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Services.dll
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Services.pdb
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Models.dll
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Repositories.dll
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Models.pdb
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\bin\Debug\net6.0\Rabbit.Repositories.pdb
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.csproj.AssemblyReference.cache
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.AssemblyInfoInputs.cache
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.AssemblyInfo.cs
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.csproj.CoreCompileInputs.cache
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.csproj.CopyComplete
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.dll
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\refint\Rabbit.Services.dll
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\Rabbit.Services.pdb
+D:\Source\Repos\RabbitMq-POC\Rabbit.Publisher.Api\Rabbit.Services\obj\Debug\net6.0\ref\Rabbit.Services.dll

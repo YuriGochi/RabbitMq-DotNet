@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Rabbit.Publisher.Api.props" />
+</Project>
